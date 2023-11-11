@@ -489,9 +489,16 @@ footer {
         padding: 20px;
     }
 
+    .corpoWidget {
+        margin-right: 0;
+    }
+
+    .paiQuadrados {
+        justify-content: space-around;
+    }
+
     .widget {
-        margin-top: 100px;
-        padding-left: 20px;
+        margin-top: 110px;
     }
     
     .widgetTitulo {
